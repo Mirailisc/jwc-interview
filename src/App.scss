@@ -150,6 +150,12 @@
         }
 
         .user {
+          width: 25%;
+
+          @media screen and (max-width: 900px) {
+            width: auto;
+          }
+          
           .image {
             border: 1px solid #ffffff;
             border-radius: 50%;
