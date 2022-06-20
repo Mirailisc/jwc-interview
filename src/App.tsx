@@ -58,14 +58,14 @@ function App() {
             </div>
             <div className="user">
               <img src={Nobara} alt="image" className="image"/>
-              <p className="review_name">แมทธิว นักธุรกิจ</p>
+              <p className="review_name">แจ็ค นักแสดง</p>
               <p className="review_content">
                 ต้องขอขอบคุณหมอหมึกในการช่วยให้ความสัมพันธ์ราบรื่นนะคะ ทำนายอะไรไว้ก็แม่นทุกอย่างเลยค่ะ
               </p>
             </div>
             <div className="user">
               <img src={Megumi} alt="image" className="image"/>
-              <p className="review_name">แมทธิว นักธุรกิจ</p>
+              <p className="review_name">น้ำใส นักศึกษา</p>
               <p className="review_content">
                 ที่หมอหมึกบอกมานะคะ เกิดเกือบหมดเลยค่ะ ถ้าไม่ได้หมอหมึกช่วยไว้ ชีวิตคงแย่เลยค่ะ ดีนะที่ป้องกันเรื่องร้าย ๆ ทันเวลา
               </p>
